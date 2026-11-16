@@ -1,3 +1,4 @@
+# KR2: Evtushenko
 import os
 import socket
 
